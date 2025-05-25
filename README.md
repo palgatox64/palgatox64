@@ -52,8 +52,8 @@
 
 <table align="center">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerdgato&theme=dark&show_icons=true&hide_border=true&layout=compact"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=nerdgato&theme=dark&show_icons=true&hide_border=true&count_private=true"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palgatox64&theme=dark&show_icons=true&hide_border=true&layout=compact"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=palgatox64&theme=dark&show_icons=true&hide_border=true&count_private=true"/></td>
   </tr>
 </table>
 
