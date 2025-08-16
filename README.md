@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://media.discordapp.net/attachments/1262512067986853960/1371354381865451520/PALGATOX64_BANNER.png?ex=6822d4cb&is=6821834b&hm=ebe826fa3c171fe2fc67f28e435c4a05a4475965948aaa1b6bfef19dacde9a94&=&format=webp&quality=lossless">
+    <img src="https://imgur.com/4l8APkW.png">
   </p>
 </div>
 
@@ -49,13 +49,19 @@
 
 <br>
 
-
-<table align="center">
+<!---<table align="center">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palgatox64&theme=dark&show_icons=true&hide_border=true&layout=compact"/></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=palgatox64&theme=dark&show_icons=true&hide_border=true&count_private=true"/></td>
   </tr>
 </table>
+-->
+
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palgatox64&theme=dark&hide_border=true"/></td>
+  </tr>
+</table>
+
 
 <div align="center">
   <h3>📚 Certifications 🎓</h3>
