@@ -77,7 +77,8 @@
   </tr>
 </table>
 
-<div align="center">
+<!---<div align="center">
+bocchi dancing
   <img src="https://imgur.com/B2Fqybr.gif">
 </div>
 
