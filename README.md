@@ -47,16 +47,6 @@
   <img src="https://img.shields.io/badge/Windows-0078D4?logo=windows&logoColor=fff&style=for-the-badge">
 </div>
 
-<br>
-
-
-
-<table align="center">
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=palgatox64&show_icons=true&theme=dark"/></td>
-    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palgatox64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></td>
-  </tr>
-</table>
 
 
 <div align="center">
@@ -76,6 +66,20 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <h3>Stats</h3>
+</div>
+
+<table align="center">
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=palgatox64&show_icons=true&theme=dark"/></td>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palgatox64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></td>
+  </tr>
+</table>
+
+
+
 
 <!---<div align="center">
 bocchi dancing
