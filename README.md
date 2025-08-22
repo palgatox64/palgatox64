@@ -49,16 +49,12 @@
 
 <br>
 
-<!---<table align="center">
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=palgatox64&theme=dark&show_icons=true&hide_border=true&count_private=true"/></td>
-  </tr>
-</table>
--->
+
 
 <table align="center">
   <tr>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=palgatox64&theme=dark&hide_border=true"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=palgatox64&show_icons=true&theme=dark"/></td>
+    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palgatox64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></td>
   </tr>
 </table>
 
