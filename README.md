@@ -67,14 +67,14 @@
   </tr>
 </table>
 
-<!---<div align="center">
-  <h3>Stats</h3>
+<div align="center">
+  <h3>✏️ Stats 📊</h3>
 </div>
 
 <table align="center">
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=palgatox64&show_icons=true&theme=dark"/></td>
-    <td valign="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palgatox64&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/></td>
+    <td valign="top"><img src ="https://raw.githubusercontent.com/palgatox64/github-stats/master/generated/languages.svg#gh-dark-mode-only"/></td>
+    <td valign="top"><img src ="https://raw.githubusercontent.com/palgatox64/github-stats/master/generated/overview.svg#gh-dark-mode-only"/></td>
   </tr>
 </table>
 
