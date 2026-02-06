@@ -25,9 +25,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL-1BB54C?style=for-the-badge&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/%7B%20%7D%20JSON-FA9A39?style=for-the-badge&logoColor=white&labelColor=FA9A39">
-  <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
+  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </div>
 
 <div align="center">
