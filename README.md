@@ -72,8 +72,8 @@
 
 <table align="center">
   <tr>
-    <td valign="top"><img src ="https://raw.githubusercontent.com/palgatox64/github-stats/master/generated/languages.svg#gh-dark-mode-only"/></td>
-    <td valign="top"><img src ="https://raw.githubusercontent.com/palgatox64/github-stats/master/generated/overview.svg#gh-dark-mode-only"/></td>
+    <td valign="top"><img src ="https://raw.githubusercontent.com/dotgato/github-stats/master/generated/languages.svg#gh-dark-mode-only"/></td>
+    <td valign="top"><img src ="https://raw.githubusercontent.com/dotgato/github-stats/master/generated/overview.svg#gh-dark-mode-only"/></td>
   </tr>
 </table>
 
