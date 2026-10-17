@@ -1,9 +1,3 @@
-<div align="center">
-  <p>
-    <img src="https://imgur.com/OLPSl5L.png">
-  </p>
-</div>
-
 <div>
   <p align="center">I'm a Computer Engineer and a hobby content creator. I usually code various types of applications that I like to deploy on cloud devices. While my career is related to project management and software development, I also like hardware and home automation.</p>
 </div>
